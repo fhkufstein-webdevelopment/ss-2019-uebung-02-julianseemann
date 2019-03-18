@@ -1,0 +1,9 @@
+/* Aufgabe4a*/
+/* Aufgabe4b*/
+.mobileInvisible {
+  display: none; }
+  @media (min-width: 990px) {
+    .mobileInvisible {
+      display: block; } }
+
+/*# sourceMappingURL=aufgabe04.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAc;AAQd,cAAc;AAQd,gBAAiB;EACf,OAAO,EAAE,IAAI;EANb,yBAA0B;IAK5B,gBAAiB;MAGb,OAAO,EAAE,KAAK",
+"sources": ["aufgabe04.scss"],
+"names": [],
+"file": "aufgabe04.css"
+}
